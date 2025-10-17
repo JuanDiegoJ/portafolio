@@ -343,6 +343,7 @@ img {
     left: 8%;
     top: 33.1%;
     transform: translate(0, -50%) scale(1);
+    display: none;
   }
 }
 
